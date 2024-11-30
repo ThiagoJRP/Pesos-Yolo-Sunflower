@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+customWightsYolo/* filter=lfs diff=lfs merge=lfs -text
+customWeightsYolo/* filter=lfs diff=lfs merge=lfs -text
